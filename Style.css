@@ -729,12 +729,12 @@ nav a:hover {
 }
 .howitworks_text{
    border: solid 2px #F57C00;
-   width: 20vw;
+   width: 18vw;
    height: 30vh;
    text-align: center;
    margin-top: 10vh;
    box-shadow: 0 2px  #F57C00;
-   font-size: 130%;
+   font-size: 110%;
 }
 
 

@@ -1,6 +1,6 @@
 body {
     font-family: "Manrope";
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 .icons {
-    margin-left: 25%;
+    margin-left: 10%;
     word-spacing: 1.5em;
     color: #e05c00;
     cursor: pointer;
@@ -108,6 +108,7 @@ nav a:hover {
     background-color: #1e4417;
     color: white;
 }
+
 
 .about_us{
     transform: translate(0);

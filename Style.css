@@ -2603,19 +2603,20 @@ section {
 
     .explanation {
         padding-top: 15vh;
+        
 
     }
 
     .explanation_drop {
         width: 35vh;
         left: -31vh;
-        /* top: -50vh; */
-        height: 17vh;
+        height: 25vh;
     }
 
     .statement {
         width: 100%;
         height: 16vh;
+        font-size: 1em;
 
     }
 }
@@ -2680,7 +2681,7 @@ footer{
     .statement {
         width: 28vh;
         padding-bottom: 1vw;
-
+font-size: 1em;
     }
 
     .faq {
@@ -2694,13 +2695,16 @@ footer{
     .faq {
         width: 40vw;
     }
+    .statement{
+      font-size: 1em;
+    }
 }
 
 @media only screen and (min-width:0px) and (max-width:500px){
     footer{
     background-color: black;
     color: white;
-    width: 98vw;
+    width: 104vw;
     margin-left: -15%;
     margin-top: 20%;
 }
@@ -2743,6 +2747,7 @@ footer{
     footer{
     background-color: black;
     color: white;
+    width: 100vw;
 }
 .footerSection{
     flex-direction: column;
@@ -2779,7 +2784,7 @@ footer{
 }
 @media only screen and (max-width:900px) and (min-width:701px){
 footer{
-    width: 99vw;
+    width: 100vw;
     margin-left: -14%;
     margin-top: 15vh;
 }
@@ -2820,7 +2825,7 @@ footer{
 }
 @media only screen and (max-width:1200px) and (min-width:901px){
    footer{
-    width: 99.5vw;
+    width: 100vw;
     margin-left: -13%;
     margin-top: 15%;
    }
@@ -2839,7 +2844,7 @@ footer{
 
 @media only screen and (min-width:1201px) and (max-width:1366px){
 footer{
-    width: 99.8vw;
+    width: 100vw;
     margin-left: -13%;
    
 }  

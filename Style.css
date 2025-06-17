@@ -19,7 +19,7 @@ body {
 }
 
 .icons {
-    margin-left: 25%;
+    margin-left: 10%;
     word-spacing: 1.5em;
     color: #e05c00;
     cursor: pointer;
@@ -226,7 +226,7 @@ nav a:hover {
 
 }
 
-@media only screen and (width:540px) {
+@media only screen and (min-width:480px)  and  (max-width:1023px){
     .home-bg {
         height: 80vh;
         background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url(Images/home.jpg);
@@ -309,12 +309,12 @@ nav a:hover {
     }
 
     .home-content nav {
-        font-size: 1.3rem;
+        font-size: 2rem;
         margin-top: 5%;
     }
 }
 
-@media only screen and (width:1024px) {
+@media only screen and (min-width:1024px) and (max-width:1334px){
     .home-bg {
         height: 25vh;
         background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url(Images/home.jpg);

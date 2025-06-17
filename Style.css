@@ -1485,7 +1485,7 @@ nav a:hover {
   color: white;
   text-align: center;
    width: 5vw;
-   height: 5vh;
+   height: 7vh;
    border-radius: 50%;
    background-color: #F57C00;
 }
@@ -1496,7 +1496,7 @@ nav a:hover {
 }
 #numbers_two{
    width: 9.5vw;
-   height: 5vh;
+   height: 7vh;
    border-radius: 50%;
    text-align: center;
    background-color: #F57C00;
@@ -1576,7 +1576,7 @@ nav a:hover {
 .howitworks_text{
    border: solid 2px #F57C00;
    width: 25vw;
-   height: 34vh;
+   height: 39vh;
    text-align: center;
    margin-top: 10vh;
    box-shadow: 0 2px  #F57C00;

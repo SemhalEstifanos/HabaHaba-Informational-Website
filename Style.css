@@ -782,7 +782,7 @@ nav a:hover {
   color: white;
   text-align: center;
    width: 9vw;
-   height: 5vh;
+   height: 6vh;
    border-radius: 50%;
    background-color: #F57C00;
 }
@@ -793,7 +793,7 @@ nav a:hover {
 }
 #numbers_two{
    width: 15vw;
-   height: 5vh;
+   height: 6vh;
    border-radius: 50%;
    text-align: center;
    background-color: #F57C00;
@@ -1436,7 +1436,7 @@ nav a:hover {
 .howitworks_text{
    border: solid 2px #F57C00;
    width: 70vw;
-   height: 30vh;
+   height: 35vh;
    text-align: center;
    margin-top: 10vh;
    box-shadow: 0 2px  #F57C00;
